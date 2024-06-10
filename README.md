@@ -1,16 +1,8 @@
-# weather_forecast
+# weather_forecasting_Project_With_Flutter
 
-A new Flutter project.
+This repository contains a simple Weather Forecast application built with Flutter. The app allows users to select a location and view the weather forecast for the next three days. It fetches weather data from the WeatherAPI.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Features
+Display a list of predefined locations.
+Fetch and display weather details including temperature, condition, humidity, and wind speed.
+Navigate between different screens using Flutter's Navigator.
